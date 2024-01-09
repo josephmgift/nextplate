@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros,
 Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
 
-#### Privacy Policy Changes
+# Privacy Policy Changes
 
 1. Sll the Themefisher items are designed to be with the latest , We check all
 2. comments that threaten or harm the reputation of any person or organization
